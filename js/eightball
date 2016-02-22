@@ -1,0 +1,12 @@
+#!usr/bin/env node
+
+'use strict'
+
+var c = require("skilstak-colors");
+
+function print(message) {
+  proccess.stdout.write(message + "\n");
+}
+
+print(c.clear + c.multi("Welcome back to your majic eightball, master") + c.reset);
+
