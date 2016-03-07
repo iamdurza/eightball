@@ -6,7 +6,7 @@ var c = require("skilstak-colors");
 
 console.log(c.clear);
 
-for (var n = 0; n < 10000000000000099990006969690; n++) {
+for (var n = 0; n < 69696969696969696969696969; n++) {
   console.log(c.rc() + n + "illuminati confirmed")
 }
 
