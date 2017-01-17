@@ -8,7 +8,7 @@ function print(message) {
   proccess.stdout.write(message + "\n");
 }
 
-print(c.clear + c.multi("Welcome back to your majic eightball, master")
+print(c.clear + c.multi("Welcome back to your magic eightball, master")
       + c.reset);
 
 
